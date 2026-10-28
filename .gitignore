@@ -1,0 +1,19 @@
+# Build results
+bin/
+obj/
+publish/
+publish-single/
+publish-fd/
+
+# Installer outputs
+installer/output/
+installer/prereq/*.exe
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+
+# OS files
+Thumbs.db
+.DS_Store
