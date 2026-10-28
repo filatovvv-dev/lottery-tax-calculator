@@ -16,3 +16,6 @@
 1. Установите .NET 10 SDK.
 2. Соберите проект: `dotnet publish -c Release -r win-x64 --self-contained false -o publish`
 3. Скомпилируйте установщик: откройте `installer\LotteryTax.iss` в Inno Setup и нажмите F9.
+
+## Скриншоты
+<img width="554" height="404" alt="Screenshot" src="https://github.com/user-attachments/assets/0ed7c198-9934-44a3-a23f-642e230e24da" />
